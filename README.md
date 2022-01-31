@@ -11,7 +11,7 @@
 ### 2. Dynamic View with ScrollView added subview with UIVIew and UITableView
 
 <div align="center">
-<br><img src="https://user-images.githubusercontent.com/47664415/118760090-d34ff980-b88f-11eb-844f-e6fb982bb5d4.mov" width="300" height="600">
+<br><img src="https://github.com/Vikassingamsetty/Swift_Project/blob/main/DynamicScrollTVWith%20UIView/scrollData.mov" width="300" height="600">
 </div>
 
 ### 3. Animated twitter Logo
