@@ -28,3 +28,11 @@ https://user-images.githubusercontent.com/47664415/151935561-d903fd05-d5e8-4607-
 ### 6. Instagram search layout - Compositional layout
 
 https://user-images.githubusercontent.com/47664415/151936147-0011de0a-e945-4598-97d1-8f8195405cdc.mp4
+
+### 7. Zoom Integration for Joining Meetings
+
+https://user-images.githubusercontent.com/47664415/151940256-6cb40906-4a43-4b24-ad11-28dfef9f94ab.mp4
+
+
+
+
