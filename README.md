@@ -24,6 +24,6 @@ https://user-images.githubusercontent.com/47664415/151935525-07ccc8c8-218c-46df-
 
 https://user-images.githubusercontent.com/47664415/151935561-d903fd05-d5e8-4607-a675-5c21f3453e00.mov
 
-### 6. CollectionView - Compositional layout
+### 6. Instagram search layout - Compositional layout
 
 https://user-images.githubusercontent.com/47664415/151936147-0011de0a-e945-4598-97d1-8f8195405cdc.mp4
