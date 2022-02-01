@@ -10,24 +10,20 @@
 
 ### 2. Dynamic View with ScrollView added subview with UIVIew and UITableView
 
-<div align="center">
-<br><img src="https://github.com/Vikassingamsetty/Swift_Project/blob/main/DynamicScrollTVWith%20UIView/scrollData.mov" width="300" height="600">
-</div>
+https://user-images.githubusercontent.com/47664415/151935400-1fe06937-62eb-42c1-ab00-0287d0cf639e.mov
 
 ### 3. Animated twitter Logo
 
-<div align="center">
-<br><img src="https://user-images.githubusercontent.com/47664415/118918998-5422fa00-b951-11eb-8fdf-de37ad4a8632.mov" width="300" height="600">
-</div>
+
 
 ### 4. Hamburger Menu with customview style
 
-<div align="center">
-<br><img src="https://user-images.githubusercontent.com/47664415/118919634-84b76380-b952-11eb-8667-629bfa081cda.mov" width="300" height="600">
-</div>
+https://user-images.githubusercontent.com/47664415/151935525-07ccc8c8-218c-46df-b4fc-c87f23fb9a40.mov
 
 ### 5. Font picker
 
-<div align="center">
-<br><img src="https://user-images.githubusercontent.com/47664415/118920332-dd3b3080-b953-11eb-84a0-8e7ef48af7c4.mov" width="300" height="600">
-</div>
+https://user-images.githubusercontent.com/47664415/151935561-d903fd05-d5e8-4607-a675-5c21f3453e00.mov
+
+### 6. CollectionView - Compositional layout
+
+https://user-images.githubusercontent.com/47664415/151936147-0011de0a-e945-4598-97d1-8f8195405cdc.mp4
