@@ -1,6 +1,7 @@
 # Swift_Project
 
-<br>__These are bundle of projects or screens I have been working on to explore.__<br>
+<br>__#These are bundle of projects or screens I have been working on to explore new things.__<br>
+<br>__#You can suggest me out for a try out on new components__<br>
 
 ### 1. Custom Tab bar  
 
