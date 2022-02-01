@@ -31,6 +31,8 @@ https://user-images.githubusercontent.com/47664415/151936147-0011de0a-e945-4598-
 
 ### 7. Zoom Integration for Joining Meetings
 
+Add Zoom SDK to the project  "MobilRTC.xcframework" & "MobileRTCResources.Bundle"
+
 https://user-images.githubusercontent.com/47664415/151940256-6cb40906-4a43-4b24-ad11-28dfef9f94ab.mp4
 
 
