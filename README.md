@@ -35,6 +35,12 @@ Add Zoom SDK to the project  "MobilRTC.xcframework" & "MobileRTCResources.Bundle
 
 https://user-images.githubusercontent.com/47664415/151940256-6cb40906-4a43-4b24-ad11-28dfef9f94ab.mp4
 
+### 8. Apple Sign-In
+
+Add Sign-in capabilities in xcode and distribution profile.
+<div align="center">
+<br><img width="300" height="600" alt="AppleSignin" src="https://user-images.githubusercontent.com/47664415/152935278-a40e7040-a9c1-447d-9caf-e0c98676a7db.png">
+</div>
 
 
 
