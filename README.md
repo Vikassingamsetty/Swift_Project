@@ -42,12 +42,14 @@ Add Sign-in capabilities in xcode and distribution profile.
 <br><img width="300" height="600" alt="AppleSignin" src="https://user-images.githubusercontent.com/47664415/152935278-a40e7040-a9c1-447d-9caf-e0c98676a7db.png">
 </div>
 
-### 9.  Magic Meal
+### 9. Magic Meal
 
 UI app for displaying items and categories in the restaurent.
-
 https://user-images.githubusercontent.com/47664415/152955545-6bae43f4-d479-4bc8-9b6d-99e97be7fdb5.mp4
 
+### 10. Collection or table view cells interaction animation
+
+https://user-images.githubusercontent.com/47664415/154198943-c540c99e-217b-4af6-8844-4f125761f3a2.mp4
 
 
 
