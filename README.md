@@ -51,5 +51,6 @@ https://user-images.githubusercontent.com/47664415/152955545-6bae43f4-d479-4bc8-
 
 https://user-images.githubusercontent.com/47664415/154198943-c540c99e-217b-4af6-8844-4f125761f3a2.mp4
 
-
+### 11. Higher Order Function 
+Playground examples are given for all the types of HOF
 
