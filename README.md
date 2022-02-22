@@ -44,8 +44,10 @@ Add Sign-in capabilities in xcode and distribution profile.
 
 ### 9. Magic Meal
 
-UI app for displaying items and categories in the restaurent.
-https://user-images.githubusercontent.com/47664415/152955545-6bae43f4-d479-4bc8-9b6d-99e97be7fdb5.mp4
+UI app for displaying items and categories in the restaurent.  Install Pod if your using Networking calls
+
+https://user-images.githubusercontent.com/47664415/155083918-77e4e9d8-cb9d-415a-9c9f-284063148612.mp4
+
 
 ### 10. Collection or table view cells interaction animation
 
